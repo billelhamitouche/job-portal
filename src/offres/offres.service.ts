@@ -9,7 +9,7 @@ export class OffresService {
   }
 
   findAll() {
-    return `This action returns all offres`;
+    return `This action returns all of;anga;ga;bg;abglahffres`;
   }
 
   findOne(id: number) {
